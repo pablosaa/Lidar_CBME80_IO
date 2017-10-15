@@ -33,9 +33,11 @@ the output variable ```data``` is a structure with the following fields:
     >> data.CD1       % 1D vector: first cloud thickness [m]
     >> data.CD2       % 1D vector: second cloud thickness [m]
 
-For information about mapping the backscattering factor from dimentionless to backscattering coefficient at sr^{-1}km^{-1} based on an intercalibration with a VAISALA CTK25 ceilometer is provided at [Chapter 3, Figure 3.18](http://hss.ulb.uni-bonn.de/2015/3941/3941.htm).
+Information about the application of the CBME80 to atmospheric studies and the mapping the backscattering factor from dimentionless to backscattering coefficient at sr^{-1}km^{-1} based on an intercalibration with a VAISALA CTK25 ceilometer and more can be found at the following reference [1]:
 
-Information: pablosaa@uni-bonn.de
+[1] *"Retrieval of cloud and rainwater from ground-based passive microwave observations with the multi-frequency dual-polarized  radiometer ADMIRARI"*, 2014, Dissertation by Pablo A. Saavedra Garfias, [Chapter 3, Figure 3.18](http://hss.ulb.uni-bonn.de/2015/3941/3941.htm).
 
-Person: Pablo Saavedra Garfias, 
+More Information: pablosaa@uni-bonn.de
+
+Author: Pablo Saavedra Garfias, 
 (c) 2010
